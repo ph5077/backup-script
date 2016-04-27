@@ -1,0 +1,10 @@
+this is a repository for BK-1 regular backup script
+bk-1-etc			bk-1 system dir /etc backup script
+ef-erp.BKUP			ef erp backup script
+env-ctrl.BKUP			env control pc backup script	
+na-1.monitor			na-1 capacity monitor script
+na-1-FileServer.BKUP		na-1 FileServer backup script
+network_equipment		network equipment config backup script
+off-site.BKUP 			off site backup script
+
+The running directory ==> /volume1/Backup/ 

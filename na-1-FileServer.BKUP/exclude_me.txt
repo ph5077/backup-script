@@ -1,0 +1,122 @@
+Thumbs.db
+.DS_Store
+~*
+*.exe
+*.EXE
+*.dll
+*.DLL
+*.msi
+*.MSI
+*.iso
+*.ISO
+
+離職人員/*
+SCAN 請勿刪除/*
+Software/*
+software/*
+Software_Dirvers/*
+軟體/*
+字型/*
+MAIL_軟體/*
+SkypePortable/*
+TeamViewerPortable/*
+單位換算/*
+COSMOS/*
+COSMOS2007/*
+Flexlm/*
+RNBOdrvr/*
+17 DREAM/*
+PotPlayerPortable/*
+25轉檔工具箱/*
+26影片工具/*
+27 SlimBrowse/*
+29 PDF/*
+30字型/*
+31輸入/*
+LINE/*
+dreammail/*
+Acesize 6.1/*
+TTPlayer/*
+cmder/*
+LawKingInstall_V6.3.0.5/*
+BDE32/*
+ETAX/*
+Proface/*
+USB-RS232/*
+YASKAWA/GX WORK2/*
+YASKAWA/MPE720Ver7_728/*
+極力系統/MPE720Ver7_728/*
+MX_Component_3/*
+MX Component3/*
+MX_Component/*
+MXComponent4/*
+電腦需安裝程式/*
+LINE_3.7.0.34_azo/*
+DreamMail4/*
+DreamMail/*
+GanttProject-2.7/*
+Solid Works2006/*
+Solidworks2004-2/*
+defy_tools/*
+Winmail Opener/*
+DotNet3-5/*
+dotnet35compact/*
+dotnet35eng/*
+dotnet3.5-sp1/*
+dotnet4.5-run-c#/*
+DOTNETFRAMEWORK2/*
+VB6.0/*
+WIN2000/*
+ACDSeeClassic2.44/*
+ESunCMS/*
+收付通8.2/*
+程式庫/*
+ADP/*
+ADP V6.2.1-131/*
+Alcohol 120% 2.0.2.3931 Retail/*
+Pro-face-1/*
+pro-face/*
+Q-PLC/*
+TDsetup/*
+PLC_Motion/*
+QPLC-Excel/*
+ProWin32/*
+Pro-600_64bit/*
+OriginPro70/*
+HMI_POD/*
+GoogleChromePortable32/*
+TrueImage/*
+USBCleaner6.0/*
+SpecLine_2.13.5.3_CD-Image/*
+bcb6/*
+GPPW/*
+PROSERVER  & DEMO/*
+True image 2010/*
+ComPort-4.14(StudentVer.)/*
+VirtualBox/*
+3.5GP-ProEXv3.5/*
+PicPickPortable/*
+軟體安裝檔/*
+軟體分享/*
+Solidworks2009/*
+XENAPP軟體區/簡體/*
+XENAPP軟體區/繁體/*
+Citrix SOP/XenDesktop CD/*
+SOP文件/NetAPP/*
+SOP文件/ERP/ERP工具/*
+SOP文件/YIFEIERP/YIFEI/*
+SOP文件/YIFEIERP/YiFei_9.0.6/*
+SOP文件/中科 Emerson UPS APM 150/*
+sidchg/*
+20101201 NetAPP驗收/na_tools/*
+XenDesktop CD/*
+VDAgent/*
+Z820_Driver/*
+Share/印表機驅動/*
+A007資訊中心/Tools/*
+SARA/雜項/程式/*
+GP-PROEX3.5/*
+NI/*
+@軟體/*
+AutoCAD/Autodesk_AutoCAD_2012_TW_Win_64bit_32bit/*
+Pro-Server EX/*

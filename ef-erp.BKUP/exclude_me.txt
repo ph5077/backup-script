@@ -1,0 +1,9 @@
+Thumbs.db
+.DS_Store
+~*
+*.msi
+*.MSI
+*.iso
+*.ISO
+
+_bak/*
